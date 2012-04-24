@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, SchrittzaehlerActivity!</string>
+    <string name="app_name">TwitterClient</string>
+    <string name="startvalue">000</string>
+    <string name="reset">Zurücksetzen</string>
+    <string name="start">Start</string>
+    <string name="stop">Stop</string>
+    <string name="update_button">Update</string>
+
+</resources>
